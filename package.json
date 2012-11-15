@@ -17,6 +17,9 @@
   "dependencies": {
     "hubot-gtalk": ">= 0.0.1",
     "hubot": "2.3.0",
+    "cheerio": "0.7.0",
+    "sandbox": "0.8.3",
+    "jsdom": "0.2.14",
     "hubot-scripts": ">= 2.1.0",
     "optparse": "1.0.3"
   },
