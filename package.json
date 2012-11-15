@@ -20,7 +20,7 @@
     "cheerio": "0.7.0",
     "sandbox": "0.8.3",
     "jsdom": "0.2.14",
-    "hubot-scripts": ">= 2.1.0",
+    "hubot-scripts": ">= 2.2.2",
     "optparse": "1.0.3"
   },
 
