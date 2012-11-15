@@ -1,1 +1,1 @@
-app: bin/hubot -a gtalk -n emmabot
+app: bin/hubot -a gtalk
